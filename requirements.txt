@@ -1,0 +1,3 @@
+numpy
+pulp
+git+https://github.com/qdbp/pulp-lparray.git@v1.0.0
